@@ -29,5 +29,5 @@ public class HelloWorldController {
 	public String sayHello(@PathVariable("name") String name) {
 		return String.format("Hello %s, Welcome to Spring Boot Online Training", name);
 	}
-	
+	// Changes by user 2
 }
