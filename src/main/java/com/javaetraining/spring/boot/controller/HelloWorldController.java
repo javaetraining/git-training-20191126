@@ -8,6 +8,7 @@ import com.javaetraining.spring.boot.model.HelloWorldBean;
 
 // changes by user Sfgdhgfhd 12gfrg3
 //logic A
+//Changes for feature1
 @RestController
 public class HelloWorldController {
 
